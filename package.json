@@ -1,0 +1,12 @@
+{
+  "name": "urs-capstone-runner",
+  "version": "1.0.0",
+  "description": "Helper runner to setup and start the URS Capstone dev servers",
+  "main": "setup_and_run.js",
+  "scripts": {
+    "start": "node setup_and_run.js"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
